@@ -3,6 +3,8 @@ This is a beta version of a promotion booking mod for Fire Pro Wrestling World t
 
 I will be releasing the full source code in the near future.
 
+Demo Video: https://youtu.be/7HhyXW_jJIU
+
 #### Current Limitations:
 In this initial version you can only book the standard exibition match types pitting Blue Corner versus Red Corner. It also does not currently have the ability to make Title matches. These features will be coming in future versions but I wanted to start getting feedback on the workflow and base functionality.
 
