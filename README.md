@@ -1,4 +1,4 @@
-**FirePromotion v.01**
+##FirePromotion v.01
 This is a beta version of a promotion booking mod for Fire Pro Wrestling World to allow you to create shows containing multiple matches that can be run in FPPW and have the result history tracked.
 
 I will be releasing the full source code in the near future.
